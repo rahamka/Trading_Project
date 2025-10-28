@@ -35,6 +35,3 @@ modeBtn.addEventListener("click", () => {
     });
   }
 });
-
-// Note in this code querySelectorAll isn't working because of that cards color isn't changing?
-// fix this error, teach me in simple words why querySelectorAll isn't working?

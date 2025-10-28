@@ -1,1 +1,1 @@
-correct the buttons of this project.
+Note: Everything is correct but after reloading the page it removes the dark mode.
